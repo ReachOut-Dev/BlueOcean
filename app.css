@@ -250,22 +250,35 @@ img {
    Hero Section
    ============================================ */
 .hero-section {
-    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+    /*    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
     color: white;
     padding: 4rem 1.5rem;
+    text-align: center;*/
+    position: relative;
+    min-height: 420px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 4rem 1.5rem;
     text-align: center;
+    color: white;
+    background: url('images/mainBlueOceanlogo.jpg') center / cover no-repeat; /*linear-gradient(135deg, rgba(0, 102, 204, 0.82) 0%, rgba(0, 168, 232, 0.72) 100%),*/
 }
 
 .hero-container {
     max-width: 800px;
     margin: 0 auto;
+/*    padding: 1.5rem 2rem;
+    background: rgba(0, 40, 80, 0.45);
+    border-radius: 12px;*/
 }
 
 .hero-title {
     font-size: 3rem;
     font-weight: 800;
     margin-bottom: 1rem;
-    color: white;
+    color: aqua;
+    text-shadow: -1px -1px 0 #003366, 1px -1px 0 #003366, -1px 1px 0 #003366, 1px 1px 0 #003366, 0 2px 8px rgba(0, 0, 0, 0.5);
 }
 
 .hero-subtitle {
