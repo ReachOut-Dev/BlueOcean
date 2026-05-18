@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlueOceanAppWASM",
   "resources": {
-    "hash": "sha256-NjaGT9OnnbVk6K6R3nd5wj3RO0lkXcriuMud2canZWM=",
+    "hash": "sha256-OR3+FdV7FPLxYi5FMAiuR561dLswzQp5rIJcQEKOF04=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-sn/g61GjVPhViOYQDkq1OMlk0eyS9r2Hi0qgU2o0HIU="
     },
@@ -48,7 +48,7 @@
       "System.Text.RegularExpressions.wasm": "sha256-6lTM5rK99dTveKD7N9enrJEr67CxhLZgBg3Jkk0mIgo=",
       "System.Threading.wasm": "sha256-xxupzv/Rv8t0XxpO0lAkJYWV75cxE9ycmHg6WOI09Pg=",
       "System.Private.CoreLib.wasm": "sha256-4df1ageuxTZ1OpO3lY7oJNvqUeG0DybgNGGfz6gLjck=",
-      "BlueOceanAppWASM.wasm": "sha256-iQ8GroipL+WP36WrEx0LqXXQ1aKlaoKA1R1vFlR+su8="
+      "BlueOceanAppWASM.wasm": "sha256-zycT9YkJs2gGqY+B2Fg2xEPqa8Qz9/POcxgMxyvBwOE="
     }
   },
   "cacheBootResources": true,
