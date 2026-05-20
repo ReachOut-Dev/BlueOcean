@@ -266,25 +266,33 @@ img {
 }
 
 .hero-container {
-    max-width: 800px;
+    max-width: 900px;
     margin: 0 auto;
-/*    padding: 1.5rem 2rem;
+    /*    padding: 1.5rem 2rem;
     background: rgba(0, 40, 80, 0.45);
     border-radius: 12px;*/
+    min-height: 260px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
 }
 
 .hero-title {
-    font-size: 3rem;
-    font-weight: 800;
+    font-size: 2.7rem;
+    font-weight: 700;
     margin-bottom: 1rem;
-    color: aqua;
+    color: #64aaed; /*#5da2e3*/
     text-shadow: -1px -1px 0 #003366, 1px -1px 0 #003366, -1px 1px 0 #003366, 1px 1px 0 #003366, 0 2px 8px rgba(0, 0, 0, 0.5);
 }
 
 .hero-subtitle {
-    font-size: 1.25rem;
+    font-size: 1.55rem;
+    font-weight: 700;
+    margin-top: 10px;
     margin-bottom: 2rem;
-    opacity: 0.9;
+    /*    opacity: 0.9;*/
+    color: #c1db14;
+    text-shadow: -1px -1px 0 #003366, 1px -1px 0 #003366, -1px 1px 0 #003366, 1px 1px 0 #003366, 0 2px 8px rgba(0, 0, 0, 0.5);
 }
 
 .hero-actions {
@@ -334,6 +342,7 @@ img {
 
 .btn-secondary:hover {
     background-color: var(--bg-secondary);
+    color:blue;
 }
 
 .btn-outline {
@@ -705,6 +714,7 @@ section {
    ============================================ */
 .page-title {
     text-align: center;
+    margin-top: 2rem;
     margin-bottom: 1rem;
 }
 
@@ -862,6 +872,7 @@ section {
 
 .emergency-hero {
     text-align: center;
+    margin-top: 2rem;
     margin-bottom: 3rem;
 }
 
