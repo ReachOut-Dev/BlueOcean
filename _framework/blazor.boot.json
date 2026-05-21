@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlueOceanAppWASM",
   "resources": {
-    "hash": "sha256-3MUOQce5E0WN6km8rrma69+wr5ryXUJDW1NLkl9oVCo=",
+    "hash": "sha256-LjDXjfBzZb+VljWqgvT6wLJHMFRrgVFcpeOc5ahYCIs=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-sn/g61GjVPhViOYQDkq1OMlk0eyS9r2Hi0qgU2o0HIU="
     },
@@ -50,11 +50,11 @@
       "System.Text.RegularExpressions.wasm": "sha256-6lTM5rK99dTveKD7N9enrJEr67CxhLZgBg3Jkk0mIgo=",
       "System.Threading.wasm": "sha256-xxupzv/Rv8t0XxpO0lAkJYWV75cxE9ycmHg6WOI09Pg=",
       "System.Private.CoreLib.wasm": "sha256-g3/V2d0VSk5/5i2K3MRvuNM7gJKpUjPj4XJn0kkDjng=",
-      "BlueOceanAppWASM.wasm": "sha256-/0QvsgghXdAmjXtI/iFRTdTlxBmSFOI4QTR6NdjChgU="
+      "BlueOceanAppWASM.wasm": "sha256-r5Cu1k3XOw9PCEUBwjQYPoNb6OnHLg/vh6IWu/qMcnc="
     },
     "satelliteResources": {
       "ko-KR": {
-        "BlueOceanAppWASM.resources.wasm": "sha256-t5opT6SMNe0X4JmRfB25BQIPFs5Ob9Rkh4m3Zl/0wZM="
+        "BlueOceanAppWASM.resources.wasm": "sha256-TLlBZanDguehYplgGYUltdIHjPrJThCCSslJkF6+vF8="
       }
     }
   },
