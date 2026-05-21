@@ -262,7 +262,9 @@ img {
     padding: 4rem 1.5rem;
     text-align: center;
     color: white;
-    background: url('images/mainBlueOceanlogo.jpg') center / cover no-repeat; /*linear-gradient(135deg, rgba(0, 102, 204, 0.82) 0%, rgba(0, 168, 232, 0.72) 100%),*/
+    background: linear-gradient(135deg, rgba(0, 102, 204, 0.15) 0%, rgba(0, 168, 232, 0.10) 100%),
+        url('images/mainBlueOceanlogo.jpg') center / 95% no-repeat,
+        #78acf0; /*linear-gradient(135deg, rgba(0, 102, 204, 0.82) 0%, rgba(0, 168, 232, 0.72) 100%),*/
 }
 
 .hero-container {
@@ -281,7 +283,7 @@ img {
     font-size: 2.7rem;
     font-weight: 700;
     margin-bottom: 1rem;
-    color: #64aaed; /*#5da2e3*/
+    color: #ebdf09; /*#64aaed, #5da2e3*/
     text-shadow: -1px -1px 0 #003366, 1px -1px 0 #003366, -1px 1px 0 #003366, 1px 1px 0 #003366, 0 2px 8px rgba(0, 0, 0, 0.5);
 }
 
@@ -291,7 +293,7 @@ img {
     margin-top: 10px;
     margin-bottom: 2rem;
     /*    opacity: 0.9;*/
-    color: #c1db14;
+    color: #ebdf09;
     text-shadow: -1px -1px 0 #003366, 1px -1px 0 #003366, -1px 1px 0 #003366, 1px 1px 0 #003366, 0 2px 8px rgba(0, 0, 0, 0.5);
 }
 
