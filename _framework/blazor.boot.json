@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlueOceanAppWASM",
   "resources": {
-    "hash": "sha256-sujDi3rDbU5JzA3x/dJn92aYiUGUl52BEMDUwcWj00o=",
+    "hash": "sha256-3MUOQce5E0WN6km8rrma69+wr5ryXUJDW1NLkl9oVCo=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-sn/g61GjVPhViOYQDkq1OMlk0eyS9r2Hi0qgU2o0HIU="
     },
@@ -54,7 +54,7 @@
     },
     "satelliteResources": {
       "ko-KR": {
-        "BlueOceanAppWASM.resources.wasm": "sha256-S8LagTivH3ljoJLrqsZ8wW4Or68HtzR1D6V1gABwgcw="
+        "BlueOceanAppWASM.resources.wasm": "sha256-t5opT6SMNe0X4JmRfB25BQIPFs5Ob9Rkh4m3Zl/0wZM="
       }
     }
   },
